@@ -1,0 +1,11 @@
+{
+  "name": "Remix Live Streamer",
+  "description": "Multi-camera live streaming and video editing mobile studio for combining, framing, and recording live video and audio streams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
